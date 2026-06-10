@@ -1,8 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfdc1754-9a6d-4726-91e4-2cb3ac1da80e" name="Changes" comment="initialize project structure and update configuration files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/masterkai/WebstormProjects/SwingMind-AI" value="3EwadM9xJL0dsG9G8gxakQ8D4sd" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="4" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1814798520113108" />
+      <entry key="MS500" value="2.401805416194941" />
+      <entry key="S2" value="4.4670918388785035" />
+      <entry key="S5" value="5.717491842355472" />
+      <entry key="S10" value="6.452572874280097" />
+      <entry key="S30" value="7.5933838786815135" />
+      <entry key="S60" value="8.167647711830636" />
+      <entry key="M2" value="8.543773323731777" />
+      <entry key="M5" value="8.806670626619322" />
+      <entry key="M10" value="8.901415196605143" />
+      <entry key="M15" value="8.93384123832794" />
+      <entry key="M30" value="8.96670057775569" />
+      <entry key="H1" value="8.983294850160195" />
+      <entry key="H2" value="8.991633511475648" />
+      <entry key="H4" value="8.995813270572226" />
+      <entry key="D1" value="8.999301727136002" />
+      <entry key="W1" value="8.999900234857815" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0741875905640927" />
+      <entry key="MS500" value="2.268504478203379" />
+      <entry key="S2" value="4.3769941191877075" />
+      <entry key="S5" value="5.67183715540276" />
+      <entry key="S10" value="6.427187615057442" />
+      <entry key="S30" value="7.583095279399658" />
+      <entry key="S60" value="8.161923485547923" />
+      <entry key="M2" value="8.540706585718839" />
+      <entry key="M5" value="8.805384502546628" />
+      <entry key="M10" value="8.900761227839709" />
+      <entry key="M15" value="8.933402755510835" />
+      <entry key="M30" value="8.966480063963663" />
+      <entry key="H1" value="8.983184271256722" />
+      <entry key="H2" value="8.991578141028143" />
+      <entry key="H4" value="8.995785565037483" />
+      <entry key="D1" value="8.999297106720624" />
+      <entry key="W1" value="8.999899574729191" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EwadM9xJL0dsG9G8gxakQ8D4sd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfdc1754-9a6d-4726-91e4-2cb3ac1da80e" name="Changes" comment="" />
+      <created>1781092171505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781092171505</updated>
+      <workItem from="1781092172688" duration="2085000" />
+    </task>
+    <task id="LOCAL-00001" summary="initialize project structure and update configuration files">
+      <option name="closed" value="true" />
+      <created>1781092267981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781092267981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialize project structure and update configuration files" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize project structure and update configuration files" />
+  </component>
 </project>
